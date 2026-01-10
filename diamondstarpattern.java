@@ -22,6 +22,8 @@ public class cc {
 
         m = number - 1;
 
+
+
         do {
             n = 1;
             do {
