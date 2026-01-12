@@ -20,6 +20,8 @@ public class cc {
             System.out.println();
         } while (++m <= number);
 
+
+
         m = number - 1;
 
 
