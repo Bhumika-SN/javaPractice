@@ -10,7 +10,7 @@ public class bhumi {
                 System.out.print(" ");
                 System.out.print("  ");
             }}
-
+"'''''
             for (int j = 0; j <= x; j++)
                 System.out.print((i + j) < 10 ? (i + j) + "  " : (i + j) + " ");
 
