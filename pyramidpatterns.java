@@ -7,6 +7,8 @@ public class bhumi {
             x = i - 1;
 
             for (int j = i; j <= num - 1; j++) {
+
+
                 System.out.print(" ");
                 System.out.print("  ");
             }}
