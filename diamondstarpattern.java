@@ -10,6 +10,9 @@ public class cc {
 
         do {
             n = 1;
+
+
+...
             do {
                 System.out.print(" ");
             } while (++n <= number - m + 1);
